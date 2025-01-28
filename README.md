@@ -1,4 +1,4 @@
-# 🌐 Hello W0rld, I'm Y1m4r 👋
+<h1 align="center">🌐 Hello W0rld, I'm Y1m4r 👋</h1>
 
 ## 🎯 About Me
 - 🎓 **Graduate Software Engineer** with experience as a Cybersecurity Analyst at Accenture.
