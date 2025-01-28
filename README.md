@@ -7,7 +7,7 @@
 - 🤝 Im looking for contribute to **build a cool developers community**.
 - 🌱 Preparing to conquer the **OSCP Certification**.
 - 🎶 Lover of house music, the beach, and sunsets. Occasionally, you’ll find me playing Valorant.
-- ✍️ Trying to post regularly — feel free to **[check out my blog](#)**!
+- ✍️ Trying to post regularly — feel free to **[check out my blog](https://y1m4r.github.io/blog/)**!
 
 ---
 
